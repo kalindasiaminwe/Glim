@@ -60,6 +60,8 @@ const Footer = () => {
         <span>Terms</span>
         <span>|</span>
         <span>Privacy</span>
+        <span>|</span>
+        <span>©️kal</span>
       </div>
     </footer>
   );
