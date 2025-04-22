@@ -24,3 +24,14 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+@font-face {
+  font-family: 'MyFont';
+  src: url('/fonts/PerandorySemiCondensed.otf') format('otf');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Mila';
+  src: url('/fonts/Mila.otf') format('otf');
+  font-weight: 400;
+}
